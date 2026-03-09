@@ -3,6 +3,6 @@
 microservicePipeline(
 
 serviceName : "submission-server",
-dockerImage : "shejulv088/final_submission_server"
+dockerImage : "shejulv088/final_submission_service"
 
 )
